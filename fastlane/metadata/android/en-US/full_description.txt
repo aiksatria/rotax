@@ -1,0 +1,10 @@
+ROTAX is a native, non-root Android utility designed to give users system-wide control over display orientation (Portrait, Landscape, Auto) using official Android public system settings APIs.
+
+Features:
+- Pure Non-Root System Rotation Override.
+- Floating Overlay Controller widget over other apps.
+- Quick Settings Tile integration.
+- Persistent Notification Control Shade.
+- Safe Restore (Compare-Before-Restore) to prevent settings conflicts.
+- 100% Offline, Zero Ads, Zero Trackers (No INTERNET permission requested).
+- Built with Jetpack Compose Material 3 & Kotlin Coroutines.

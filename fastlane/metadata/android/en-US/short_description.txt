@@ -1,0 +1,1 @@
+Universal non-root Android screen orientation controller.

@@ -1,0 +1,1 @@
+Paksa & atur rotasi layar ke Portrait, Landscape, atau Auto tanpa root!

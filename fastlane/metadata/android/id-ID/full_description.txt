@@ -1,0 +1,9 @@
+ROTAX adalah pengontrol orientasi layar Android universal tanpa root yang memberikan Anda kendali penuh atas posisi layar perangkat Anda.
+
+Fitur Utama:
+- System-Level Rotation Override tanpa Root.
+- Floating Controller Overlay di atas aplikasi lain.
+- Quick Settings Tile di status bar shade.
+- Persistent Notification Control Shade.
+- Safe Restore (Compare-Before-Restore) untuk mengembalikan setelan asli secara aman.
+- 100% Offline, Bebas Iklan, & Tanpa Pelacak.
