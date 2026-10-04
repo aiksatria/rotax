@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ROTAX</string>
+    <string name="tile_label">ROTAX</string>
+    <string name="notification_channel_name">ROTAX Control</string>
+    <string name="notification_channel_desc">Kontrol orientasi persisten dan status floating overlay</string>
+    <string name="notification_title">ROTAX</string>
+    <string name="action_portrait">Portrait</string>
+    <string name="action_landscape">Landscape</string>
+    <string name="action_auto">Auto</string>
+    <string name="action_float_off">Float Off</string>
+</resources>

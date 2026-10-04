@@ -1,0 +1,6 @@
+{
+  "name": "ROTAX",
+  "description": "Non-root system-wide orientation controller with Quick Settings tile, persistent notification, and floating overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
