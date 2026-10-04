@@ -1,10 +1,16 @@
 # ROTAX — Universal Android Orientation Controller
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](https://opensource.org/licenses/MIT)
-[![Android](https://img.shields.io/badge/Android-7.0%2B%20%28API%2024%2B%29-39D353.svg)](https://developer.android.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-2.4.20-7F52FF.svg)](https://kotlinlang.org)
-[![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-00E5FF.svg)](https://developer.android.com/jetpack/compose)
-[![Ad-Free](https://img.shields.io/badge/Ads-100%25%20Free%20%26%20Offline-FF7B72.svg)](#privacy--security-guarantee)
+<p align="center">
+  <img src="rotax.png" alt="ROTAX Feature Graphic" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-cyan.svg" alt="License: MIT"></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-7.0%2B%20%28API%2024%2B%29-39D353.svg" alt="Android 7.0+"></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.4.20-7F52FF.svg" alt="Kotlin 2.4.20"></a>
+  <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-00E5FF.svg" alt="Jetpack Compose Material 3"></a>
+  <a href="#privacy--security-guarantee"><img src="https://img.shields.io/badge/Ads-100%25%20Free%20%26%20Offline-FF7B72.svg" alt="100% Offline & Ad-Free"></a>
+</p>
 
 **ROTAX** (Force Rotation) is a native, non-root Android utility designed to give users system-wide control over display orientation. Built with modern Android architecture, Jetpack Compose Material 3, and Kotlin Coroutines, ROTAX operates 100% offline without ads, analytics, or background battery drain.
 
@@ -15,6 +21,17 @@
 - 🚀 **Live Subdomain Landing Page**: [https://forcerotation.idm.web.id/](https://forcerotation.idm.web.id/)
 - 📱 **Google Play Store**: [https://play.google.com/store/apps/details?id=id.web.idm.forcerotation](https://play.google.com/store/apps/details?id=id.web.idm.forcerotation)
 - 🏢 **Developer & Maintainer**: **PT Ismaya Dewa Mitra** ([https://www.idm.web.id](https://www.idm.web.id))
+
+---
+
+## 📸 App Showcase & Screenshots
+
+<p align="center">
+  <img src="1.png" width="24%" alt="Atur Orientasi Layar dengan Satu Ketukan" />
+  <img src="2.png" width="24%" alt="Floating Controller Akses Cepat di Atas Aplikasi Lain" />
+  <img src="3.png" width="24%" alt="Kontrol Sistem Level Aman, Non-Root, dan Stabil" />
+  <img src="4.png" width="24%" alt="Pengaturan Lengkap Notifikasi & Quick Settings" />
+</p>
 
 ---
 
@@ -51,6 +68,8 @@ ROTAX follows modern Android development best practices and Clean Architecture p
 
 ```text
 rotax/
+├── rotax.png                              # Main feature graphic banner
+├── 1.png, 2.png, 3.png, 4.png             # Application screenshots
 ├── app/
 │   ├── build.gradle.kts                   # Application Gradle configuration & R8 minification rules
 │   ├── proguard-rules.pro                 # Keep rules for DataStore, Compose, & Play Core
@@ -107,7 +126,7 @@ rotax/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/rotax.git
+git clone https://github.com/aiksatria/rotax.git
 cd rotax
 ```
 
